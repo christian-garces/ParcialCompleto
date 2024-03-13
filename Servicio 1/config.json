@@ -1,0 +1,8 @@
+{  
+   "basePackage":"co.com.Garces.microservice.resolveEnigmaApi",
+   "configPackage":"co.com.Garces.microservice.resolveEnigmaApi.config",
+   "apiPackage":"co.com.Garces.microservice.resolveEnigmaApi.api",
+   "modelPackage":"co.com.Garces.microservice.resolveEnigmaApi.model",
+   "groupId":"co.com.Garces.service.resolveEnigmaApi",
+   "artifactId":"resolve-enigma-api"
+}
